@@ -1,0 +1,23 @@
+html,
+body,
+#root,
+.main,
+.preloader-content {
+  height: 100%;
+}
+
+.title {
+  font-size: 28px;
+  text-align: center;
+  margin: 20px 0 0;
+}
+
+.preloader-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dummy-document {
+  display: none;
+}
